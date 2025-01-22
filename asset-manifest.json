@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-for-beginners2/static/css/main.94863c25.chunk.css",
+    "main.js": "/react-for-beginners2/static/js/main.e67b1a9a.chunk.js",
+    "main.js.map": "/react-for-beginners2/static/js/main.e67b1a9a.chunk.js.map",
+    "runtime~main.js": "/react-for-beginners2/static/js/runtime~main.bdb4959e.js",
+    "runtime~main.js.map": "/react-for-beginners2/static/js/runtime~main.bdb4959e.js.map",
+    "static/js/2.ba2912be.chunk.js": "/react-for-beginners2/static/js/2.ba2912be.chunk.js",
+    "static/js/2.ba2912be.chunk.js.map": "/react-for-beginners2/static/js/2.ba2912be.chunk.js.map",
+    "index.html": "/react-for-beginners2/index.html",
+    "precache-manifest.b115fdec7531d28d06c99ddd66c0c2c8.js": "/react-for-beginners2/precache-manifest.b115fdec7531d28d06c99ddd66c0c2c8.js",
+    "service-worker.js": "/react-for-beginners2/service-worker.js",
+    "static/css/main.94863c25.chunk.css.map": "/react-for-beginners2/static/css/main.94863c25.chunk.css.map"
+  }
+}
