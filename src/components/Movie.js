@@ -10,11 +10,13 @@ function Movie(props) {
     const summary = props.summary;
     const poster = props.poster;
     const genres = props.genres;
+    const id = props.id;
 
     return (
         <Link
             to={{
-                pathname: "/movie-detail",
+                // pathname: "/movie-detail",
+                pathname: `/movie/${id}`,
                 state: {
                     year,
                     title,
